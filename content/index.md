@@ -1,11 +1,14 @@
 ---
-Title: Home
-Description: This is our index page.
+Title: B.S Alam
+Description: This is my portfolio page. 
 ---
 
-Home page
+Bondhon Shahriar Alam
 ==========================
 
-The source for this page is in `content/index.md`.
+Hello I'm Bondhon Shahriar Alam. I'm a 29 year old student from Stockholm, Sweden.
+I like to learn new programming languages but My favorite language is Javascript.
+I have done many different projects with javascript before. I'm doing this course
+to get myself updated with current webtech.
 
-This is a sample home page written in markdown with some frontmatter defined.
+
