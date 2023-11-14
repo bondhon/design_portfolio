@@ -12,3 +12,4 @@ I have done many different projects with javascript before. I'm doing this cours
 to get myself updated with current webtech.
 
 
+![Hello ME] (../assets/img/bond.jpeg)
